@@ -1,8 +1,8 @@
-PYTHON27_PREFIX=/usr
+PYTHON27_PREFIX=C:\Python27
 PYTHON27_HEADERS=$(PYTHON27_PREFIX)/include/python2.7
 PYTHON27_LIBS=$(PYTHON27_PREFIX)/lib
 
-XED_PREFIX=pin-2.14-71313-gcc.4.4.7-linux/extras/xed-ia32
+XED_PREFIX=C:\Users\Ali Shan\Downloads\pin-2.14-71313-msvc12-windows\pin-2.14-71313-msvc12-windows\extras\xed-ia32
 # XED_PREFIX=pin-2.14-71313-gcc.4.4.7-linux/extras/xed-intel64
 XED_HEADERS=$(XED_PREFIX)/include
 XED_LIBS=$(XED_PREFIX)/lib
